@@ -9,9 +9,13 @@ Copy and paste the following code into the next code cell and choose Run.
 ##Note: 
 
 Make sure to replace these fields in the second cell: 
+
 bucket_name = 'bucket-name' # <--- CHANGE THIS VARIABLE TO A UNIQUE NAME FOR YOUR BUCKET
+
 aws_access_key_id='AWS_ACCESS_KEY' # <--- Replace this variable with the AWS Access Key ID
+
 aws_secret_access_key='xvks7pBha7p2NFgspnH/pZsQ8+IzW8XZtHZwM4MQ' # <--- Replace this variable with the AWS Secret Access Key
+
 endpoint_url='http://1.2.3.4:5678' # <--- Replace this variable with the IP Address and Port number
 
 If you don't receive a success message after running the code, change the bucket name and try again.
