@@ -14,7 +14,7 @@ bucket_name = 'bucket-name' # <--- CHANGE THIS VARIABLE TO A UNIQUE NAME FOR YOU
 
 aws_access_key_id='AWS_ACCESS_KEY' # <--- Replace this variable with the AWS Access Key ID
 
-aws_secret_access_key='xvks7pBha7p2NFgspnH/pZsQ8+IzW8XZtHZwM4MQ' # <--- Replace this variable with the AWS Secret Access Key
+aws_secret_access_key='AWS_SECRET_KEY' # <--- Replace this variable with the AWS Secret Access Key
 
 endpoint_url='http://1.2.3.4:5678' # <--- Replace this variable with the IP Address and Port number
 
