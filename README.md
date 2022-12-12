@@ -1,6 +1,6 @@
 # About this notebook
 
-This notebook is completely adapted from the AWS SageMaker tutorial [here](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/#:~:text=Introduction%201%20Step%201%3A%20Create%20an%20Amazon%20SageMaker,model%20performance%20...%206%20Step%206%3A%20Clean%20up).
+This notebook is adapted from the AWS SageMaker tutorial [here](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/#:~:text=Introduction%201%20Step%201%3A%20Create%20an%20Amazon%20SageMaker,model%20performance%20...%206%20Step%206%3A%20Clean%20up).
 
 The S3 bucket to store data is in ADSS. 
 
