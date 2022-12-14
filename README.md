@@ -2,20 +2,14 @@
 
 This notebook is adapted from the AWS SageMaker tutorial [here](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/#:~:text=Introduction%201%20Step%201%3A%20Create%20an%20Amazon%20SageMaker,model%20performance%20...%206%20Step%206%3A%20Clean%20up).
 
-The S3 bucket to store data is in ADSS. 
+We are using [Dell ECS](https://www.google.com/search?q=dell+ecs&rlz=1C1GCEO_enSG1032SG1032&oq=dell+ecs&aqs=chrome.0.69i59j0i512l4j69i60l3.2583j0j7&sourceid=chrome&ie=UTF-8) for storing data.
 
-Copy and paste the following code into the next code cell and choose Run.
+The ECS bucket is used to store data from AWS SageMaker. 
 
-##Note: 
+To-Do:
 
-Make sure to replace these fields in the second cell: 
+1. Update the `.env` variables contents with the ECS Access Key and Secret Access Key.
 
-bucket_name = 'bucket-name' # <--- CHANGE THIS VARIABLE TO A UNIQUE NAME FOR YOUR BUCKET
+2. Replace variable `bucket_name = 'bucket-name'`
 
-aws_access_key_id='AWS_ACCESS_KEY' # <--- Replace this variable with the AWS Access Key ID
-
-aws_secret_access_key='AWS_SECRET_KEY' # <--- Replace this variable with the AWS Secret Access Key
-
-endpoint_url='http://1.2.3.4:5678' # <--- Replace this variable with the IP Address and Port number
-
-If you don't receive a success message after running the code, change the bucket name and try again.
+3. Replace variable `endpoint_url='http://1.2.3.4:5678'`
