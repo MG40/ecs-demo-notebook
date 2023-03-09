@@ -12,6 +12,6 @@ To-Do:
    - ECS Access Key  
    - Secret Access Key
 
-2. Replace variable `bucket_name = 'bucket-name'`
-
-3. Replace variable `endpoint_url='http://1.2.3.4:5678'`
+2. Replace the foll. variables:
+   - `bucket_name = 'bucket-name'`
+   - `endpoint_url='http://1.2.3.4:5678'`
