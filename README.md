@@ -15,3 +15,5 @@ To-Do:
 2. Replace the foll. variables:
    - `bucket_name = 'bucket-name'`
    - `endpoint_url='http://1.2.3.4:5678'`
+
+3. Run the notebook instance row by row. 
