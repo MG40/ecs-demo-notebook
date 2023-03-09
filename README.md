@@ -8,7 +8,9 @@ The ECS bucket is used to store data from AWS SageMaker.
 
 To-Do:
 
-1. Update the `.env` variables contents with the ECS Access Key and Secret Access Key.
+1. Update the `.env` variables contents with 
+- ECS Access Key  
+- Secret Access Key
 
 2. Replace variable `bucket_name = 'bucket-name'`
 
