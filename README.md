@@ -1,4 +1,4 @@
-*** NOTE: Creation of Dell ECS is not in the perview of the discussion ***
+*** NOTE: Creation of Dell ECS Community Edition is not in the perview of the discussion ***
 
 # About this notebook
 
