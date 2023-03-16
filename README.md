@@ -1,3 +1,5 @@
+*** NOTE: Creation of Dell ECS is not in the perview of the discussion ***
+
 # About this notebook
 
 This notebook is adapted from the AWS SageMaker tutorial [here](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/#:~:text=Introduction%201%20Step%201%3A%20Create%20an%20Amazon%20SageMaker,model%20performance%20...%206%20Step%206%3A%20Clean%20up).
@@ -17,3 +19,4 @@ To-Do:
    - `endpoint_url='http://1.2.3.4:5678'`
 
 3. Run the notebook instance row by row. 
+
